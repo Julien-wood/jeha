@@ -184,55 +184,84 @@
     <main class="container main">
         <div class="row">
             <div class="col-9">
-                <div class="row">
                     <div class="title">
-                        <h2>Projets à la une</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur, voluptas maiores. Itaque eum dignissimos laudantium.</p>
+                        <h2>Nos Projets en cours</h2>
+                        <p>Retrouvez ici nos articles les plus récents et découvrir nos évènements et activités</p>
                     </div>
-                    <div class="col-4 projet">
-                        <div class="img-pro">
-                            <img src="" alt="">
-                            <div class="price"><h4>450£</h4></div>
+                <div class="row">
+                    <div class="col-lg-4">
+                        <div class="meeting-item">
+                            <div class="thumb">
+                                <div class="price">
+                                        <span>$22.00</span>
+                                </div>
+                                <a href="meeting-details.html"><img src="assets/imgs/gal1.jpg" alt="New Lecturer Meeting"></a>
+                            </div>
+                            <div class="down-content">
+                                <div class="date">
+                                        <h6>Jan <span>22</span></h6>
+                                </div>
+                                <a href="meeting-details.html"><h4>New Lecturers Meeting</h4></a>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br>
+                                    Eum laborum doloremque veritatis animi fugiat?</p>
+                                <div class="button left">
+                                    <div class="left"><a href="http://" target="_blank" rel="noopener noreferrer"><h5>Contribuer</h5></a></div>
+                                    <div class="right"><a href=""><h5>Détaille</h5></a></div>
+                                </div>
+                            </div>
                         </div>
-                        <div class="titr"><h3>Titre Projet 1</h3></div>
-                        <div class="info">
-                            <div class="nom"><h6>Julien WOOD</h6></div>
-                            <div class="type"><h6>Technologie</h6></div>
-                        </div>
-                        <div class="desc">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Et repellat tempore iusto, amet tempora, nulla minima ex porro consequatur quo reprehenderit? Voluptatibus harum similique, ullam maxime quo quasi placeat. Voluptatum.</div>
-                        <div class="button"><a href="http://" target="_blank" rel="noopener noreferrer"><h5>Contribuer</h5></a></div>
                     </div>
-                    <div class="col-4 projet">
-                        <div class="img-pro">
-                            <img src="" alt="">
-                            <div class="price"><h4>450£</h4></div>
+                    <div class="col-lg-4">
+                        <div class="meeting-item">
+                            <div class="thumb">
+                                <div class="price">
+                                        <span>$22.00</span>
+                                </div>
+                                <a href="meeting-details.html"><img src="assets/imgs/gal1.jpg" alt="New Lecturer Meeting"></a>
+                            </div>
+                            <div class="down-content">
+                                <div class="date">
+                                        <h6>Jan <span>22</span></h6>
+                                </div>
+                                <a href="meeting-details.html"><h4>New Lecturers Meeting</h4></a>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br>
+                                    Eum laborum doloremque veritatis animi fugiat?</p>
+                                <div class="button left">
+                                    <div class="left"><a href="http://" target="_blank" rel="noopener noreferrer"><h5>Contribuer</h5></a></div>
+                                    <div class="right"><a href=""><h5>Détaille</h5></a></div>
+                                </div>
+                            </div>
                         </div>
-                        <div class="titr"><h3>Titre Projet 1</h3></div>
-                        <div class="info">
-                            <div class="nom"><h6>Julien WOOD</h6></div>
-                            <div class="type"><h6>Technologie</h6></div>
-                        </div>
-                        <div class="desc">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Et repellat tempore iusto, amet tempora, nulla minima ex porro consequatur quo reprehenderit? Voluptatibus harum similique, ullam maxime quo quasi placeat. Voluptatum.</div>
-                        <div class="button"><a href="http://" target="_blank" rel="noopener noreferrer"><h5>Contribuer</h5></a></div>
                     </div>
-                    <div class="col-4 projet">
-                        <div class="img-pro">
-                            <img src="" alt="">
-                            <div class="price"><h4>450£</h4></div>
+                    <div class="col-lg-4">
+                        <div class="meeting-item">
+                            <div class="thumb">
+                                <div class="price">
+                                        <span>$22.00</span>
+                                </div>
+                                <a href="meeting-details.html"><img src="assets/imgs/gal1.jpg" alt="New Lecturer Meeting"></a>
+                            </div>
+                            <div class="down-content">
+                                <div class="date">
+                                        <h6>Jan <span>22</span></h6>
+                                </div>
+                                <a href="meeting-details.html"><h4>New Lecturers Meeting</h4></a>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br>
+                                    Eum laborum doloremque veritatis animi fugiat?</p>
+                                <div class="button left">
+                                    <div class="left"><a href="http://" target="_blank" rel="noopener noreferrer"><h5>Contribuer</h5></a></div>
+                                    <div class="right"><a href=""><h5>Détaille</h5></a></div>
+                                </div>
+                            </div>
                         </div>
-                        <div class="titr"><h3>Titre Projet 1</h3></div>
-                        <div class="info">
-                            <div class="nom"><h6>Julien WOOD</h6></div>
-                            <div class="type"><h6>Technologie</h6></div>
-                        </div>
-                        <div class="desc">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Et repellat tempore iusto, amet tempora, nulla minima ex porro consequatur quo reprehenderit? Voluptatibus harum similique, ullam maxime quo quasi placeat. Voluptatum.</div>
-                        <div class="button"><a href="http://" target="_blank" rel="noopener noreferrer"><h5>Contribuer</h5></a></div>
                     </div>
                 </div>
             </div>
             <div class="col-3 remercier">
                 <div class="row">
-                    
+                    <div class="title">
+                        <h2>Nos Projets Filiales</h2>
+                    </div>
                     <div class="col-6">
                         <span><h5>donateur</h5></span>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur officia vero distinctio!
