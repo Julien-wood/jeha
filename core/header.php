@@ -21,18 +21,18 @@
 
       <div class="logo">
         <h1 class="text-light"><a href="index.html">ASSO - JEHA</a></h1>
-        <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+        <!-- <a href="index.php?page=accueil"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
       </div>
 
       <nav id="navbar" class="navbar">
         <ul>
-          <li><a class="nav-link scrollto active" href="#hero">Accueil</a></li>
-          <li><a class="nav-link scrollto" href="#about">A Propos</a></li>
-          <li><a class="nav-link scrollto" href="#services">Services</a></li>
-          <li><a class="nav-link scrollto " href="#portfolio">Blog</a></li>
-          <li><a class="nav-link scrollto" href="#team">Projets</a></li>
-          <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
-          <li><a class="nav-link scrollto" href="#contact">NOUS SOUTENIR</a></li>
+          <li><a class="nav-link scrollto active" href="index.php?page=accueil">Accueil</a></li>
+          <li><a class="nav-link scrollto" href="index.php?page=about">A Propos</a></li>
+          <li><a class="nav-link scrollto" href="index.php?page=activite">Activités</a></li>
+          <li><a class="nav-link scrollto " href="index.php?page=blog">Blog</a></li>
+          <li><a class="nav-link scrollto" href="index.php?page=projet">Projets</a></li>
+          <li><a class="nav-link scrollto" href="index.php?page=contact">Contact</a></li>
+          <li><a class="nav-link scrollto" href="index.php?page=soutenir">NOUS SOUTENIR</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- ===== .navbar ===== -->
@@ -40,7 +40,3 @@
     </div>
   </header>
   <!-- ====== End Header ====== -->
-
-                 <?php
-                    include "core/slider.php";
-                ?>

@@ -4,8 +4,8 @@
             <div class="container-flude">
                 <div class="container">
                 <div class="row ">
-                    <div class="col left">
-                        <p><h4> <center>Copyright © 2022.</center> <br> <center>T-LEX., Touts droits réservés.</center> </h4></p>
+                    <div class="col-lg left">
+                        <p><h4> <center>Copyright © 2022.</center> <br> <center>T-LEX de Chez JEHA, Touts droits réservés.</center> </h4></p>
                     </div>
                     <div class="col center">
                         <p>

@@ -1,7 +1,11 @@
-        <!-- ===== derniers articles & Présentation ===== -->
+    
+                <?php
+                    include "core/slider.php";
+                ?>
+    <!-- ===== derniers articles & Présentation ===== -->
         <div class="row main">
             <!-- ====== les derniers artices ====== -->
-            <div class="col-9">
+            <div class="col-lg-9">
                 <div class="row">
                     <div class="title">
                         <h2>Nos Articles Récents</h2>
@@ -23,7 +27,7 @@
             </div> <!-- ====== Fin des derniers articles ====== -->
 
             <!-- ====== Présentation du projet mère ====== -->
-            <div class="col-3 cognotte">
+            <div class="col-lg-3 cognotte">
                 <div class="img-don"><img src="assets/imgs/eco2.png" alt=""></div>
                 <div class="titre-don"><i class="bi bi-piggy-bank"><h3>Notre Cagnotte</h3></i></div>
                 <div class="desc"><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque dolor iste aperiam fugit exercitationem quae odio reprehenderit sint. Et repellat facilis ipsam aliquid id veniam officia debitis explicabo. Suscipit, quod?</p></div>
@@ -130,7 +134,7 @@
                                     <img src="assets/imgs/gal1.jpg" alt="">
                                     <span><h5>T-LEX</h5></span>
                                 </div>
-                                <p>Une Agence digital et de communication (développement Web et mobile) 
+                                <p>Agence digital  et de communication (développement Web et mobile) 
                                 </p>
                             </div>
                         </div>

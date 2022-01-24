@@ -676,7 +676,7 @@ hr{
 }
 .emmet p{
   color: black;
-  font-size: 16px;
+  font-size: 18px;
   bottom: 10px;
   position: absolute;
   left: 2px;
@@ -726,12 +726,12 @@ hr{
       ============ Design Footer ===============
       ==========================================*/
 footer{
-  height: 120px;
+  height: 100%;
   background: rgba(85, 37, 34, 0.9);
   opacity: .8;
 }
 .right2 ul{
-  padding-top: 50px;
+  padding-top: 20px;
 }
 .right2 ul li{
   display: inline;
@@ -743,6 +743,7 @@ footer{
   text-align: center;
   margin: 15px;
   color: white;
+  font-size: 40px;
   
 }
 .right2 li a i:hover{
