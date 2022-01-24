@@ -258,29 +258,49 @@
                 </div>
             </div>
             <div class="col-3 remercier">
-                <div class="row">
                     <div class="title">
-                        <h2>Nos Projets Filiales</h2>
+                        <h2>Nos Projets Associatif</h2>
+                    </div>
+                <div class="row">
+                    <div class="col-6">
+                        <div class="emmet">
+                            <div class="groupe">
+                                <img src="assets/imgs/gal1.jpg" alt="">
+                                <span><h5>ARTFLIX</h5></span>
+                            </div>
+                            <p>Studio de L'Audiovisuel, <br> Réalisation de film, <br> Scénarisation
+                            </p>
+                        </div>
                     </div>
                     <div class="col-6">
-                        <span><h5>donateur</h5></span>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur officia vero distinctio!
-                        </p>
+                        <div class="emmet">
+                            <div class="groupe">
+                                    <img src="assets/imgs/gal1.jpg" alt="">
+                                    <span><h5>T-LEX</h5></span>
+                                </div>
+                                <p>Development (Front-end & Back-end), <br> Design (UX, UI / DA), 
+                                </p>
+                            </div>
+                        </div>
+                    <div class="col-6">
+                        <div class="emmet">
+                            <div class="groupe">
+                                <img src="assets/imgs/gal1.jpg" alt="">
+                                <span><h5>CICC</h5></span>
+                            </div>
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur officia vero distinctio!
+                            </p>
+                        </div>
                     </div>
                     <div class="col-6">
-                        <span><h5>donateur</h5></span>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur officia vero distinctio!
-                        </p>
-                    </div>
-                    <div class="col-6">
-                        <span><h5>donateur</h5></span>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur officia vero distinctio!
-                        </p>
-                    </div>
-                    <div class="col-6">
-                        <span><h5>donateur</h5></span>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur officia vero distinctio!
-                        </p>
+                        <div class="emmet">
+                            <div class="groupe">
+                                <img src="assets/imgs/gal1.jpg" alt="">
+                                <span><h5>MS Clean</h5></span>
+                            </div>
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur officia vero distinctio!
+                            </p>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -295,42 +315,42 @@
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur, voluptas maiores. Itaque eum dignissimos laudantium.</p>
                 </div>
                 <div class="col teams">
-                    <div class="photo"><img src="" alt=""></div>
+                    <div class="photo"><img src="assets/imgs/gal1.jpg" alt=""></div>
                     <div class="nom"><h4>Julien WOOD</h4></div>
                     <div class="role">Président</div>
                 </div>
                 <div class="col teams">
-                    <div class="photo"><img src="" alt=""></div>
+                    <div class="photo"><img src="assets/imgs/gal1.jpg" alt=""></div>
                     <div class="nom"><h4>Julien WOOD</h4></div>
                     <div class="role">Président</div>
                 </div>
                 <div class="col teams">
-                    <div class="photo"><img src="" alt=""></div>
+                    <div class="photo"><img src="assets/imgs/gal1.jpg" alt=""></div>
                     <div class="nom"><h4>Julien WOOD</h4></div>
                     <div class="role">Président</div>
                 </div>
                 <div class="col teams">
-                    <div class="photo"><img src="" alt=""></div>
+                    <div class="photo"><img src="assets/imgs/gal1.jpg" alt=""></div>
                     <div class="nom"><h4>Julien WOOD</h4></div>
                     <div class="role">Président</div>
                 </div>
                 <div class="col teams">
-                    <div class="photo"><img src="" alt=""></div>
+                    <div class="photo"><img src="assets/imgs/gal1.jpg" alt=""></div>
                     <div class="nom"><h4>Julien WOOD</h4></div>
                     <div class="role">Président</div>
                 </div>
                 <div class="col teams">
-                    <div class="photo"><img src="" alt=""></div>
+                    <div class="photo"><img src="assets/imgs/gal1.jpg" alt=""></div>
                     <div class="nom"><h4>Julien WOOD</h4></div>
                     <div class="role">Président</div>
                 </div>
                 <div class="col teams">
-                    <div class="photo"><img src="" alt=""></div>
+                    <div class="photo"><img src="assets/imgs/gal1.jpg" alt=""></div>
                     <div class="nom"><h4>Julien WOOD</h4></div>
                     <div class="role">Président</div>
                 </div>
                 <div class="col teams">
-                    <div class="photo"><img src="" alt=""></div>
+                    <div class="photo"><img src="assets/imgs/gal1.jpg" alt=""></div>
                     <div class="nom"><h4>Julien WOOD</h4></div>
                     <div class="role">Président</div>
                 </div>
@@ -349,18 +369,18 @@
                     <div class="col center">
                         <p>
                             ASSO-JEHA || Jeunes Entrepreneurs Hexa-Alliance 
-                            <br>
+                            <br> 
                             Enregistré : 
-                            <br>
+                            <br> 
                             Récipissé :
                         </p>
                     </div>
-                    <div class="col right">
+                    <div class="col right2">
                         <ul>
-                            <li><i class="bi  bi-twitter"></i></li>
-                            <li><i class="bi bi-facebook"></i></li>
-                            <li><i class="bi bi-instagram"></i></li>
-                            <li><i class="bi bi-youtube"></i></li>
+                            <li><a href=""><i class="bi  bi-twitter"></i></a></li>
+                            <li><a href=""><i class="bi bi-facebook"></i></a></li>
+                            <li><a href=""><i class="bi bi-instagram"></i></a></li>
+                            <li><a href=""><i class="bi bi-youtube"></i></a></li>
                         </ul>
                     </div>
                 </div>
