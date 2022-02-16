@@ -2,7 +2,7 @@
                 <?php
                     include "core/slider.php";
                 ?>
-    <!-- ===== derniers articles & Présentation ===== -->
+    <!-- ===== derniers articles & Présentation ===== --> 
         <div class="row main">
             <!-- ====== les derniers artices ====== -->
             <div class="col-lg-9">
@@ -20,7 +20,7 @@
                     <div class="col-6 article">
                         <div class="image"><img src="assets/imgs/eco.png" alt=""></div>
                         <div class="titre-article"><h3>Second titre</h3></div>
-                        <div class="description"><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam impedit delectus tenetur consectetur doloremque, veritatis corporis adipisci eum vitae provident fuga nobis sapiente doloribus, unde pariatur magni aperiam reiciendis officiis!</p></div>
+                        <div class="description"><p style="text-align: justify;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam impedit delectus tenetur consectetur doloremque, veritatis corporis adipisci eum vitae provident fuga nobis sapiente doloribus, unde pariatur magni aperiam reiciendis officiis!</p></div>
                         <div class="button"><button><a href="">lire complet</a></button></div>
                     </div>
                 </div>
@@ -30,7 +30,7 @@
             <div class="col-lg-3 cognotte">
                 <div class="img-don"><img src="assets/imgs/eco2.png" alt=""></div>
                 <div class="titre-don"><i class="bi bi-piggy-bank"><h3>Notre Cagnotte</h3></i></div>
-                <div class="desc"><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque dolor iste aperiam fugit exercitationem quae odio reprehenderit sint. Et repellat facilis ipsam aliquid id veniam officia debitis explicabo. Suscipit, quod?</p></div>
+                <div class="desc"><p style="text-align: justify;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque dolor iste aperiam fugit exercitationem quae odio reprehenderit sint. Et repellat facilis ipsam aliquid id veniam officia debitis explicabo. Suscipit, quod?</p></div>
                 <div class="soutenir"><button><a href="http://" target="_blank" rel="noopener noreferrer">Nous Soutenir</a></button></div>
             </div>
         </div>
@@ -55,7 +55,29 @@
                             </div>
                             <div class="down-content">
                                 <div class="date">
-                                        <h6>Jan <span>22</span></h6>
+                                        <h6>Jan</h6>
+                                </div>
+                                <a href="meeting-details.html"><h4>New Lecturers Meeting</h4></a>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br>
+                                    Eum laborum doloremque veritatis animi fugiat?</p>
+                                <div class="button left">
+                                    <div class="left"><a href="http://" target="_blank" rel="noopener noreferrer"><h5>Contribuer</h5></a></div>
+                                    <div class="right"><a href=""><h5>Détaille</h5></a></div>
+                                </div> 
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="meeting-item">
+                            <div class="thumb">
+                                <div class="price">
+                                        <span>$22.00</span>
+                                </div>
+                                <a href="meeting-details.html"><img src="assets/imgs/gal1.jpg" alt="New Lecturer Meeting"></a>
+                            </div>
+                            <div class="down-content">
+                                <div class="date">
+                                    <h6>Jan</h6>
                                 </div>
                                 <a href="meeting-details.html"><h4>New Lecturers Meeting</h4></a>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br>
@@ -77,29 +99,7 @@
                             </div>
                             <div class="down-content">
                                 <div class="date">
-                                        <h6>Jan <span>22</span></h6>
-                                </div>
-                                <a href="meeting-details.html"><h4>New Lecturers Meeting</h4></a>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br>
-                                    Eum laborum doloremque veritatis animi fugiat?</p>
-                                <div class="button left">
-                                    <div class="left"><a href="http://" target="_blank" rel="noopener noreferrer"><h5>Contribuer</h5></a></div>
-                                    <div class="right"><a href=""><h5>Détaille</h5></a></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4">
-                        <div class="meeting-item">
-                            <div class="thumb">
-                                <div class="price">
-                                        <span>$22.00</span>
-                                </div>
-                                <a href="meeting-details.html"><img src="assets/imgs/gal1.jpg" alt="New Lecturer Meeting"></a>
-                            </div>
-                            <div class="down-content">
-                                <div class="date">
-                                        <h6>Jan <span>22</span></h6>
+                                        <h6>Jan </h6>
                                 </div>
                                 <a href="meeting-details.html"><h4>New Lecturers Meeting</h4></a>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br>

@@ -11,8 +11,8 @@
                         <p>
                             ASSO-JEHA || Jeunes Entrepreneurs Hexa-Alliance 
                             <br> 
-                            <center>Enregistré Sous le numéro :  </center>
-                           <center>Récipissé : En cours du traitement</center>
+                            <center>Enregistré Sous le numéro : <span>175 du 11/02/2022</span>  </center>
+                           <center>Récipissé : En cours de traitement</center>
                         </p>
                     </div>
                     <div class="col right2">

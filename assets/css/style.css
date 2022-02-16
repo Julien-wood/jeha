@@ -437,12 +437,12 @@ hr{
 }
 .article{
   position: relative;
-  background-color: rgb(41, 80, 119);
+  background-color: rgba(102, 39, 39, 0.555);
   margin-left: 25px;
   border-radius: 25px;
   width: 410px;
   color: rgb(253, 253, 253);
-
+  border: 3px solid rgb(108, 204, 241);
 
 }
 .image img{
@@ -451,7 +451,7 @@ hr{
   position: relative;
   top: 10px;
   border-radius: 10px;
-  border: 5px solid #fff;
+  border: 3px solid #fff;
 
 }
 .titre-article{
@@ -459,20 +459,20 @@ hr{
 }
 
 .titre-article h3{
-  background: cornflowerblue;
+  background: rgba(100, 148, 237, 0.445);
   margin-left: 5px;
   text-align: center;
   border-radius: 10px;
 }
 .button button{
-  background: rgb(77, 77, 77);
+  background: rgb(62, 241, 227);
   float: right;
   height: 40px;
   text-align: center;
   font-size: 1.5em;
   font-family: serif;
   font-style: italic;
-  border: 1px solid rgb(0 0 25 .2);
+  border: 1px solid rgba(18, 18, 141, 0.2);
   border-radius: 15px;
   box-shadow: 0 2px 0 rgb(173, 67, 76);
 
@@ -575,7 +575,7 @@ hr{
 .meeting-item .thumb img {
   border-top-right-radius: 20px;
   border-top-left-radius: 20px;
-  height: 100%;
+  height: 225px;
   width: 100%;
 }
 
@@ -653,6 +653,48 @@ hr{
   width: 90px;
   text-align: center;
 }
+
+section.meetings-page .pagination {
+  text-align: center;
+  width: 100%;
+  margin-top: 30px;
+  display: inline-block;
+}
+
+section.meetings-page .pagination ul li {
+  display: inline-block;                  
+}
+
+section.meetings-page .pagination ul li a {
+  width: 40px;
+  height: 40px;
+  background-color: #fff;
+  border-radius: 10px;
+  color: #1f272b;
+  display: inline-block;
+  text-align: center;
+  line-height: 40px;
+  font-weight: 600;
+  font-size: 15px;
+  transition: all .3s;
+}
+
+section.meetings-page .main-button-red {
+  text-align: center;
+}
+
+section.meetings-page .main-button-red a {
+  padding: 12px 60px;
+  text-align: center;
+  margin-top: 30px;
+}
+
+section.meetings-page .pagination ul li.active a,
+section.meetings-page .pagination ul li a:hover {
+  background-color: #a12c2f;
+  color: #fff;
+}
+
 .left a{
   color: #ffffff;
 }
@@ -856,14 +898,57 @@ section.contact-us .right-info ul li span {
   font-weight: 700;
 }
 
+   /* ==========================================
+      ============   About   ===================
+      ========================================== */
+
+.about{
+  background: #ffffff;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  border-radius: 5px;
+} 
+.apropos{
+  position: relative;
+  margin-top: 20px;
+  width: 100%;
+}
+.img_about img{
+  left: 50px;
+  position: relative;
+  height: 400px;
+  border-radius: 20px;
+
+}
+.text_about p{
+  font-size: 18px;
+  color: black;
+  
+  
+}
+.sous_about{
+  background: #78b7c2ce;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 20px;
+  border-radius: 10px;
+}
+
+.but{
+  color: black; 
+}
+.bar_lateral{
+  border-left: 5px solid rgb(207, 27, 27);
+  margin-left: 20px;
+}
 
 
  /* 
-  ::::::::::::::::::                :::           :::::::::     ::       ::
-  ::::::::::::::::::                :::           ::             ::     ::
-         ::::                       :::           ::              ::   ::
+  ::::::::::::::::::                :::           :::::::::     ::        ::
+  ::::::::::::::::::                :::           :::            ::      ::
+         ::::                       :::           :::             ::    ::
          ::::         :::::::       :::           :::::::::          :: 
-         ::::         :::::::       :::           ::               ::  ::
-         ::::                       ::::::::::::  ::              ::    ::
-         ::::                       ::::::::::::  :::::::::      ::      ::
+         ::::         :::::::       :::           :::             ::   ::
+         ::::                       ::::::::::::  :::            ::      ::
+         ::::                       ::::::::::::  :::::::::     ::        ::
   */

@@ -11,7 +11,9 @@
                     <div class="caption">
                 <h5>Bonjour !</h5>
                 <h2>Bienvenue sur le site de l'Asso-JEHA</h2>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam placeat repellendus quibusdam harum, nemo quam consequuntur nam corporis distinctio voluptas fugit ad aut inventore necessitatibus reiciendis exercitationem dolores? Quia, voluptatem ex expedita consectetur rem id veniam quos odit illo eius. Optio officiis ipsum deserunt a fugit voluptate..</p>
+                <p>Association JEHA (Jeunes Entrepreneurs Hexa-Alliance) est une association de développement humanitaire de solidarité internationale et à but non lucratif basé à Lomé la capitale du Togo (Afrique de l’Ouest). 
+                    Acceptant de mettre leurs forces ensemble, connaissances et temps au service du développement et de l’intégrité générale de la société...
+                </p>
                 <div class="main-button-red">
                     <div class="scroll-to-section btn btn-info"><a class="text-black" href="#contact">Agir avec Nous</a></div>
                 </div>

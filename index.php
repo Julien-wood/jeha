@@ -1,5 +1,6 @@
 <?php
-   
+   include("functions/casadb.php");
+
     $pages = scandir('pages/');
     if(isset($_GET['page']) && !empty($_GET['page'])){
         if(in_array($_GET['page'].'.php',$pages)){
@@ -26,10 +27,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Asso-JEHA || Jeunes Entrepreneurs Hexa-Alliance</title>
     <meta name="description" content="Association Humanitaire Démunie Entrepreneur voyage Stage Don Aides Aux Enfants Soutien
-    Soutenir Projets ">
+    Soutenir Projets Bénévolat Caritative Culturelle Jeunesse Organisation">
     <!-- Favicons -->
-    <link href="assets/img/favicon.png" rel="icon">
-    <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+    <link href="assets/imgs/favicon.png" rel="icon">
+    <link href="assets/imgs/apple-touch-icon.png" rel="apple-touch-icon">
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
     <!-- Vendor CSS Files -->
